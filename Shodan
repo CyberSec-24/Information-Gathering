@@ -1,0 +1,15 @@
+Lets Start Finding Information with the help of Shodan 
+
+So Shodan is basically a Website in which enables attackers to perform footprinting at various levels. 
+It is used to detect devices and networks with vulnerabilities. A search in Shodan for VoIP and VPN footprinting can deliver various results, which will help gather VPN-and VoIP-related information 
+
+As user will enter to the website "https://www.shodan.io/"
+There are so many features in the website is available like Industrial Research, Databases, Network Infrastructure, Video Games
+
+There is one Special Feature of Search box 
+As any user will enter any IP address or any Domain name in this search box then he/she will get the information about:-
+-> Origin
+-> From where it is origined
+-> Content type
+-> Content Date
+-> Is connection alive or not
