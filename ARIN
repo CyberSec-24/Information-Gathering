@@ -1,0 +1,15 @@
+An attacker can determine the network range of the target system. Detailed information regarding IP allocation and the nature of allocation is available with the appropriate regional registry database
+
+ARIN Whois database search tool.
+
+-> Website:- https://www.arin.net/about/welcome/region
+
+->  enter the server IP into the SEARCH Site or Whois text box
+
+-> this yields the network range of the target network. Improperly set-up DNS servers offer attackers a good chance of obtaining a list of internal machines in the network
+
+-> Additionally, if an attacker traces a route to a machine, it could be possible to obtain the internal IP address of the gateway, which can be useful
+
+-> Information that can be beneficiary are Domain name, registragtion date, address, port, telephone number ,etc. much more
+
+-> Also website provide the subdomains of the tagert webiste and also details that above mentioned
