@@ -1,0 +1,17 @@
+Netcraft technique of obtaining information about the target network operating system is called OS fingerprinting
+
+ The company provides cybercrime disruption services across a range of industries.
+
+-> Open https://www.netcraft.com/tools/ in the browser and type the URL of the target website in the What's that site running? field
+
+-> Website:- https://sitereport.netcraft.com/
+
+->  Attackers use the Netcraft tool to identify all the sites associated with the target domain along with the operating system running at each site
+
+-> As you will search for the target Website you will get multiple information about it 
+
+-> User will get the information about who is the owner,hosting company 
+
+-> Also can find the wholw address at where the website is hosted
+
+
