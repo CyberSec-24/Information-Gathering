@@ -1,0 +1,13 @@
+Security Trail can extract a range of IP addresses using IP routing lookup.
+
+-> Website:- https://securitytrails.com
+
+-> If the target network allows unknown, unauthorized users to transfer DNS zone data, it is easy for an attacker to obtain DNS information with the help of a DNS interrogation tool
+
+-> SecurityTrails is an advanced DNS enumeration tool capable of creating a DNS map of the target domain network.
+
+-> It can enumerate both current and historical DNS records such as A, AAAA, NS, MX, SOA, which helps in building the DNS structure
+
+-> It also enumerates all the existing subdomains of the target domain using brute-force techniques.
+
+-> User can get details as Cname, MX records, TXT.
