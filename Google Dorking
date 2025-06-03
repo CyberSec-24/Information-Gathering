@@ -1,0 +1,16 @@
+Google Dorking
+
+-> Google Dorks information helps the attacker in identifying vulnerabilities in such security controls
+
+-> Attackers can use advanced search operators available with these search engines and create complex queries to find, filter, and sort specific information regarding the target.
+
+-> if you find any deleted pages/information about your company in SERPs or the search engine cache, you can request the search engine to remove the pages/information from its indexed cache.
+
+-> Google hacking refers to the use of advanced Google search operators for creating complex search queries to extract sensitive or hidden information. The accessed information is then used by attackers to find vulnerable targets0.
+
+-> Using advanced Google operators, attackers can locate specific strings of text such as specific versions of vulnerable web applications.
+
+-> Examples:-
+i) allinurl: This operator restricts results to only the pages containing all the query terms specified in the URL.
+ii) inurl: This operator restricts the results to only the pages containing the specified word in the URL.
+iii) cache: This operator displays Google's cached version of a web page instead of the current version of the web page.
